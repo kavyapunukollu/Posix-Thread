@@ -1,7 +1,14 @@
 # Posix-Thread
-Posix
+============
+
+Posix:
+
 how to create a threds
-THREAD SYNCHRONIZATION 
+
+THREAD SYNCHRONIZATION
+
 MUTEXES
+
 joins
+
 THREAD SCHEDULING 
