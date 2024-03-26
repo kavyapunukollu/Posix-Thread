@@ -3,12 +3,12 @@
 
 Posix:
 
-how to create a threds
+HOW TO CREATE A THREADS
 
 THREAD SYNCHRONIZATION
 
 MUTEXES
 
-joins
+JOINS
 
 THREAD SCHEDULING 
